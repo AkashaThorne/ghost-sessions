@@ -1,10 +1,5 @@
 # ghost-sessions
-<<<<<<< HEAD
 Reference implementation of sending Discord Rich Presence activities for your (authorized) users... _from the cloud!_
-=======
-Write Discord Rich Presence activities for authorized users _from the cloud!_
->>>>>>> 4d91126... Update README.md
-
 
 ## Functionality
 `ghost-sessions` is a tool for developers integrating Discord Rich Presence into their games and apps. It's written in JavaScript ([Node.js](https://nodejs.org/)) and provides a working end-to-end example of:
