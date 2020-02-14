@@ -1,5 +1,5 @@
 # ghost-sessions
-Write presence information for authorized users _from the cloud!_
+Write Discord Rich Presence activities for authorized users _from the cloud!_
 
 
 ## Functionality
