@@ -1,5 +1,9 @@
 # ghost-sessions
+<<<<<<< HEAD
 Reference implementation of sending Discord Rich Presence activities for your (authorized) users... _from the cloud!_
+=======
+Write Discord Rich Presence activities for authorized users _from the cloud!_
+>>>>>>> 4d91126... Update README.md
 
 
 ## Functionality
