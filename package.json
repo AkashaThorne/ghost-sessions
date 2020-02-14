@@ -1,7 +1,7 @@
 {
-  "name": "headless",
+  "name": "ghost-sessions",
   "version": "1.0.0",
-  "description": "",
+  "description": "Send Discord Rich Presence activities for your users from the cloud!",
   "main": "index.js",
   "scripts": {
     "setup" : "node configure.js",
