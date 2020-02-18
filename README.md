@@ -1,5 +1,5 @@
 # ghost-sessions
-Reference implementation: writing Discord Rich Presence activities for your (authorized) users... _from the cloud!_
+Reference implementation of sending Discord Rich Presence activities for your (authorized) users... _from the cloud!_
 
 
 ## Functionality
