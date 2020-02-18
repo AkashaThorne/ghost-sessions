@@ -27,9 +27,9 @@ It also outputs the data being sent to / from Discord to the terminal so you can
 
 This tool is released as a set of interactive scripts that can be executed via command-line interface. 
 
-1. Configure your Discord app: `npm run setup`
-1. Obtain a user auth token: `npm run token`
-1. Set Rich Presence activity: `npm run set`
-1. Clear Rich Presence activity: `npm run clear`
+1. Configure your Discord app: `npm run setup` — runs `configure.js`
+1. Obtain a user auth token: `npm run token` — runs `obtain_token.js`
+1. Set Rich Presence activity: `npm run set` — runs `set_activity.js`
+1. Clear Rich Presence activity: `npm run clear` — runs `clear_activity.js`
 
 Each one will prompt you for the information it needs to successfully execute, no command line arguments are necessary.
