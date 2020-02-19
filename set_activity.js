@@ -50,7 +50,7 @@ async function start() {
 				name,
 				details,
 				type : "0",
-				platform : "ios",
+				platform : "desktop",
 				application_id : client_id
 			}
 		]
